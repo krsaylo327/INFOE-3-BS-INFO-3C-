@@ -1,9 +1,0 @@
-EmployeeID,Name,Department,ClearanceLevel,AccessCode,LastLogin
-201,Jonathan Hayes,Finance,Level_3,F451,2026-03-15
-202,Melissa Carter,Human Resources,Level_2,H228,2026-03-16
-203,Nicholas Ramirez,Information Technology,Level_4,T905,2026-03-17
-204,Patricia Nguyen,Operations,Level_5,O113,2026-03-18
-205,Brandon Collins,Legal,Level_2,L782,2026-03-19
-206,Heather Jenkins,Research,Level_4,R364,2026-03-20
-207,Tyler Simmons,Customer Support,Level_1,C550,2026-03-21
-208,Angela Bryant,Administration,Level_3,A617,2026-03-22
